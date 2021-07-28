@@ -2,7 +2,7 @@
   {
     "align": "left",
     "companyname": "AT&T Labs",
-    "date": "(04/2019 - Present)",
+    "date": "(03/2019 - Present)",
     "description": [ "POLO stands for Portal Open Loop Operations, which is used to restart, shutdown and to get the status of network resources." ],
     "responsibilites": [
       "Developed Single Page Application using W2UI Framework.",
@@ -16,7 +16,7 @@
   {
     "align": "right",
     "companyname": "Verizon",
-    "date": "(12/2018 - 05/2019)",
+    "date": "(07/2018 - 03/2019)",
     "description":
     [
       "Federal CLIN Audit: CLIN is a Federal billing audit application and it stands for Contract Line Item Number. The Auditing process currently is done based on Manual Procedure. The Application handles on automating the process on generating the data based on the user requested info.",
@@ -38,7 +38,7 @@
   {
     "align": "left",
     "companyname": "AT&T Labs",
-    "date": "(02/2015 - 12/2018)",
+    "date": "(09/2015 - 02/2018)",
     "opensource": "https://wiki.onap.org/display/DW/Policy",
     "description": [ "Network Virtualization Platform creates a network on demand using Policy Engine which is back bone core Engine for access/deny requests coming from various Network component clients. The Application is key back bone for the AT&T Network Infrastructure." ],
     "responsibilites": [
